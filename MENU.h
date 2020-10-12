@@ -34,7 +34,7 @@ char studentsmenu1(void)                        //student program menu    $$func
 			   chm1=getche();  return (chm1);
 }
 
-int studfeemenu(void)
+int studentfeemenu(void)
 {
 	border();
 	int sfm;
